@@ -1,4 +1,4 @@
-# UC Irvine CS178 Project
+# UC Irvine CS178 Machine Learning Project
 
 This repository is for the final Project of the CS178 Machine Learning class (UC Irvine, Winter 2017).
 
